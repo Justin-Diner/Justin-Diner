@@ -3,7 +3,7 @@
 - :mage_man: I’m currently working on a full-stack AirBnB Clone set in the Wizarding World of Harry Potter.
 - 🌱 I’m currently improving at the MERN stack. 
 - 👯 I’m looking to collaborate on open source applications and building full-stack applications. 
-- 💬 Ask me about ReactJS and difficult programming questions. 
+- 💬 Ask me about ReactJS and solving difficult programming questions. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Sci-fi, Fantasy, Snowboarding and Electronic Music. 
 
