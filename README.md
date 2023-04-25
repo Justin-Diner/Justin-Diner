@@ -7,4 +7,3 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love the artistry of programming. 
--->
