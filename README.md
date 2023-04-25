@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source applications and building full-stack applications. 
 - 💬 Ask me about ReactJS and beautiful web applications. 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love the artistry of programming. 
+- ⚡ Fun fact: I love Sci-fi, Fantasy, and electronic music. 
 
 ---
 
