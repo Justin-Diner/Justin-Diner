@@ -14,7 +14,7 @@
 
 ---
 
-Feel free to ask me about any of the following: 
+## Feel free to ask me about any of the following: 
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
