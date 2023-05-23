@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- :mage_man: I’m currently working on a pixel-perfect full-stack AirBnB Clone.
-- 🌱 I’m currently improving at the MERN stack. 
+- :house_with_garden: I’m currently working on a pixel-perfect full-stack AirBnB Clone.
+- 🌱 I’m currently improving at the MERN stack and researching AI. 
 - 👯 I’m looking to collaborate on open source applications and building full-stack applications. 
 - 💬 Ask me about ReactJS and solving difficult programming questions. 
 - :smiley: Pronouns: he/him
