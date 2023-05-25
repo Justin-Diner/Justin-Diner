@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- :house_with_garden: I’m currently working on an AirBnB Clone.
-- 🌱 I’m improving at the MERN stack and researching AI. 
-- 👯 I’m looking to collaborate on open source applications. 
+- :necktie: Software Engineer and Prior Attorney
+- :house_with_garden: Currently working on an AirBnB Clone.
+- 🌱 Improving at the MERN stack and researching AI. 
+- 👯 Looking to collaborate on open source applications. 
 - 💬 Ask me about ReactJS and solving difficult programming questions. 
 - :smiley: Pronouns: he/him
 - ⚡ Fun fact: I love Finance, Sci-fi, AI, Snowboarding and Electronic Music. 
