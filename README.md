@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :necktie: Software Engineer and Prior Attorney.
+- :necktie: Software Engineer and Prior Practicing Attorney.
 - :house_with_garden: Currently working on an AirBnB Clone.
 - 🌱 Improving at the MERN stack and researching AI. 
 - 👯 Looking to collaborate on open source applications. 
