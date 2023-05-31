@@ -2,7 +2,7 @@
 
 - :necktie: Software Engineer and Prior Practicing Attorney.
 - :house_with_garden: Currently working on an AirBnB Clone.
-- 🌱 Improving at the MERN stack and researching AI. 
+- 🌱 Improving at the MERN stack, learning Swift, and researching AI. 
 - 👯 Looking to collaborate on open source applications. 
 - 💬 Ask me about ReactJS and solving difficult programming questions. 
 - :smiley: Pronouns: he/him
