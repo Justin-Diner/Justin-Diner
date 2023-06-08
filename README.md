@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - :necktie: Software Engineer and Prior Practicing Attorney.
-- :house_with_garden: Currently working on an <a href="https://acciobnb.onrender.com/" target="_blank">AirBnB Clone.</a>
-- 🌱 Improving at the MERN stack, learning Swift, and researching AI. 
+- :house_with_garden: Currently working on my <a href="https://acciobnb.onrender.com/" target="_blank">AirBnB Clone</a>, React-Native, and DS&A.
+- 🌱 Improving at the MERN stack, Swift, and researching AI. 
 - 👯 Looking to collaborate on open source applications. 
 - 💬 Ask me about ReactJS and solving difficult programming questions. 
 - :smiley: Pronouns: he/him
