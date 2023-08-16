@@ -2,7 +2,7 @@
 
 - :necktie: Software Engineer and Prior Practicing Attorney.
 - :house_with_garden: Currently working on my <a href="https://acciobnb.onrender.com/" target="_blank">AirBnB Clone</a>, React-Native, and DS&A.
-- 🌱 Improving at Python, Swift, and my AI knowledge. 
+- 🌱 Improving at Python/Django, React-Native, and my AI knowledge. 
 - 👯 Looking to collaborate on open source applications. 
 - 💬 Ask me about ReactJS and solving difficult programming questions. 
 - :smiley: Pronouns: he/him
