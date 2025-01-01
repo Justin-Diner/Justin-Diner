@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - :necktie: Software Engineer and Prior Practicing Attorney.
-- :house_with_garden: Currently working on a React-Native/Laravel project to release on the App Store in 2024.
-- 🌱 Improving at React-Native, Vim motions, AWS, and my AI knowledge. 
+- :house_with_garden: Currently working on a React-Native/Laravel project to release on the App Store in 2025.
+- 🌱 Improving at React-Native, Vim Motions, AWS, and my AI knowledge. 
 - 👯 Looking to collaborate on open source applications. 
 - 💬 Ask me about ReactJS and solving difficult programming questions. 
 - :smiley: Pronouns: he/him
